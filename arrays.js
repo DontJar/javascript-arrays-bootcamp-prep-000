@@ -7,6 +7,6 @@ var ingredient6 = "garlic"
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
-var addElementToBeginningofArray
+Function addElementToBeginningOfArray ()
 
-var destructivelyAddElementToBeginningOfArray
+Function destructivelyAddElementToBeginningOfArray
