@@ -11,4 +11,4 @@ function addElementToBeginningOfArray (array, element) {
   return ...array, element
 }
 
-Function destructivelyAddElementToBeginningOfArray
+// Function destructivelyAddElementToBeginningOfArray
