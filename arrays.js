@@ -16,3 +16,4 @@ function descructivelyAddElementToBeginningOfArray(array, element) {
 array.unshift(element)
 
 return array
+}
