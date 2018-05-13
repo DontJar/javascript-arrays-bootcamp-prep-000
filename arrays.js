@@ -17,7 +17,7 @@ array.unshift(element);
 return array;
 }
 
-function addElementToBeginningOfArray(array, element) {
+function addElementToEndOfArray(array, element) {
   return [element, ...array];
 }
 
